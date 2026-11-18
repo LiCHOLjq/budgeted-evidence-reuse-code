@@ -1,0 +1,4 @@
+left_tau,right_tau,comparisons,differences
+16,64,19200,144
+16,256,19200,144
+64,256,19200,0

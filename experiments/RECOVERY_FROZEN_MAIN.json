@@ -1,0 +1,28 @@
+{
+  "frozen_utc": "2026-10-29T09:27:12Z",
+  "source_sha256": {
+    "benchmark_recovery_main.py": "b36e1f5ca1eb758290f03ffda5028e15cbde316ea6dd6530eae755496793f643",
+    "RECOVERY_ADDENDUM_MAIN.md": "472e6c57b489b9f36aaa58fedaf573ed628b0a0997e4a151292f3f229905bff0",
+    "run_recovery_main.py": "1c2687cf6babe7927b50b48a26703146a1436370b70260fbdffc4d1551ea2eb2"
+  },
+  "original_benchmark_sha256": "0a3c0a8fc31b8b8485ff00a26ef96226f67f1fb1f83e5943adc6dd420094db02",
+  "canonical_folder_mapping": {
+    "diagnostics/capacity_p0_recovery": "diagnostics/capacity_p0"
+  },
+  "excluded_incomplete_folders": [
+    "diagnostics/capacity_p0"
+  ],
+  "planned_job_indices": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+  ],
+  "nullable_field": "python_to_logical_ratio",
+  "nonnull_mean_rule": "Exclude undefined None; retain explicit null and nonnull counts; never impute zero"
+}

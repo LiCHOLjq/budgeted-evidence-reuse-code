@@ -1,0 +1,33 @@
+{
+  "failures": [],
+  "method_executions": 5999680,
+  "method_runs": 10686,
+  "original_manifest_sha256": "24a02c3554345aafc6118707f6424ad6c7df4cb927fabbe15bad927f52a2a342",
+  "output_sha256": {
+    "balanced_observer_ratios.csv": "2c74a212de823ec904df5f28d25befa684f6c87a0a2256434e516a719380c5be",
+    "component_net_benefit.csv": "46659af71b049f8d896cccd7637b81c53b3f2cbdb1af51c631ac562a141818d4",
+    "configuration_summary.csv": "0a91bded3f7fddb89bedc40b127f0742da1218497b5290b3f27bf77686e3f015",
+    "gate_block_cells.csv": "a338aa930d40b449a7d56e375c2515639eda9c46ad9fe306e1ffbcb2f9e37c62",
+    "gate_blocks.csv": "c7bc9fe385a01ce5c7b766a8e27da19c081ec7b64dfac0b587d047478cd713cf",
+    "gate_overhead.csv": "f26766a591a7219cf2a12d5a524e33d46edcf50fe3814fcc01c8d6bb6374e4a2",
+    "key_facts.json": "6fe6e298e09f85cd62e8dc326818f9eec5927541a0c685d00079a2bbd84158f9",
+    "observer_effect.csv": "d65bb37905f7fe027b4b99ad0948a4142617ec4f03b299f2a553626ffacef688",
+    "paired_ratios.csv": "4d99ea0159855762549840c427954685bfc4b145e2f4787186ba380669836fd1",
+    "pilot_prediction_cells.csv": "469dfb3bdd781c40f74cbb0965bd60322094e6c9db80c51e7f601b835ce996d7",
+    "pilot_predictions.csv": "5d9b6d147a694671e170f3ce7735e61dd73a273e997cc55c598cc66a5f3782aa",
+    "predictor_classification.csv": "179bd393434e5bab18baf26f6185892c173447251e2123ae5b8b86db2d1c1086",
+    "process_ratios.csv": "bacee329472657329f13a1c4a096621feb1c624410e0952c1d0b8de9c8553767",
+    "run_summary.csv": "7fb2af482e4a144b2a749ff7a6fa90466b4039052f740786baf4222858dea1c9",
+    "saturation.csv": "b28729c65c08698c8e232ee8bdc446e58c31dabef6b0e4179b9aeee63c7da78d",
+    "seed_ratios.csv": "f81fbc8d8e79d07388b28ba2c06d688ec9b2fb5debc3606e0d5d878806bf5129",
+    "structural_distributions.csv": "eb7338399bf927e19aa70504968fe97bd64747c53f3d32b04900432b2b2652ef",
+    "threshold_paired_ratios.csv": "1ecc405aa662377501fbc979ae9f7cecfce6606a8799191129cbfe56ffe26041",
+    "threshold_process_ratios.csv": "7ab18be9b63ff0eb8e0e25204ad8cb4f2c9edf1113cd6ab2f998964229127a2e",
+    "strict_integrity.json": "48ed72ffe8be364329066e0a2a58232adf2c56ef1804a76f928668d28ca4c0a4"
+  },
+  "partial": false,
+  "raw_audit_sha256": "f5baddabedabe9f4ce638aa6765fbf324c89a43e6ad319972897a5e4f54da324",
+  "recorded_oracle_errors": 0,
+  "status": "pass_observed_records",
+  "strict_integrity_status": "PASS"
+}

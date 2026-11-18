@@ -1,0 +1,50 @@
+{
+  "source_url": "https://snap.stanford.edu/data/soc-LiveJournal1.txt.gz",
+  "source_page": "https://snap.stanford.edu/data/soc-LiveJournal1.html",
+  "raw_sha256": "d7bcd5a87b88c896c35fdb9611e804c3f4033c39b58c4c9ea3ba53c680d516d8",
+  "raw_bytes": 259619239,
+  "n": 4847571,
+  "original_directed_edges": 68993773,
+  "typed_edges": 137987546,
+  "relations": [
+    "original direction",
+    "explicit inverse"
+  ],
+  "selection": "complete graph; no sampling; preserve original dense IDs",
+  "self_loops": 518382,
+  "files": {
+    "r0_indptr.npy": {
+      "sha256": "8ecbfcb39e0df93376190c40c1dc6fb552dac47cfad66a5ae31cef6950f088a1",
+      "bytes": 38780704,
+      "dtype": "uint64",
+      "shape": [
+        4847572
+      ]
+    },
+    "r0_indices.npy": {
+      "sha256": "170b59d8f83e7f3b86e1d01bd5056b023b24a10a527a2fcbb7d36a5a397f5132",
+      "bytes": 275975220,
+      "dtype": "uint32",
+      "shape": [
+        68993773
+      ]
+    },
+    "r1_indptr.npy": {
+      "sha256": "0a21436cfc79d632e0d9d9319e80d6ab71ce302fcd05398981732cafc5bf3d12",
+      "bytes": 38780704,
+      "dtype": "uint64",
+      "shape": [
+        4847572
+      ]
+    },
+    "r1_indices.npy": {
+      "sha256": "183b085ae43a244b58fc1f5a1c0a48243310345d5691b1dd939bdc622ddd603c",
+      "bytes": 275975220,
+      "dtype": "uint32",
+      "shape": [
+        68993773
+      ]
+    }
+  },
+  "elapsed_s": 89.93602013587952
+}

@@ -1,0 +1,5 @@
+scope,policies,pairs,spread_definition,minimum_percent,median_percent,p95_percent,maximum_percent
+main_families,all_cache_policies,30,"100*(max(R_A,R_B)/min(R_A,R_B)-1)",0.054763102249011375,0.5603092925257958,1.98288972693904,3.1123279991938757
+main_families,static_cache_policies,24,"100*(max(R_A,R_B)/min(R_A,R_B)-1)",0.054763102249011375,0.6283673060685224,1.9314677372668583,3.1123279991938757
+including_plain_observer_controls,all_cache_policies,58,"100*(max(R_A,R_B)/min(R_A,R_B)-1)",0.054763102249011375,0.540147959309889,1.9207569046550166,3.1123279991938757
+including_plain_observer_controls,static_cache_policies,52,"100*(max(R_A,R_B)/min(R_A,R_B)-1)",0.054763102249011375,0.5623822108797305,1.8287433331289453,3.1123279991938757

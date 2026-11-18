@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "partial": false,
+  "checked_method_runs": 10686,
+  "planned_method_runs": 10686,
+  "missing_method_runs": 0,
+  "checked_executions": {
+    "results": 5193600,
+    "observer_controls": 76800,
+    "diagnostics": 729280
+  },
+  "expected_executions": {
+    "results": 5193600,
+    "observer_controls": 76800,
+    "diagnostics": 729280
+  },
+  "total": 5999680,
+  "oracle_errors": 0,
+  "ineffective_edit_errors": 0,
+  "max_capacity_excess_bytes": 0,
+  "distinct_workload_hashes": 271,
+  "distinct_workload_request_positions": 207680,
+  "source_manifest_sets": 1,
+  "errors": [],
+  "protocol_sha256": "d0c35bb0f4a737a76393ba2aa551dbf133e3b33c0b8355c469a2ce5ecebedbf4",
+  "configuration_sha256": "683e24f0d95b7c9f56959a64bdeab4e657a9b5a98851ee439f31af306fdd29e8"
+}

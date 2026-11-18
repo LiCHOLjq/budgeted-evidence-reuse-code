@@ -1,0 +1,19 @@
+{
+  "primary_executions": 96000,
+  "diagnostic_executions": 76800,
+  "total_executions": 172800,
+  "primary_processes": 5,
+  "diagnostic_blocks": 2,
+  "paired_counter_test_requests": 1920,
+  "old_oracle_witnesses_matched": 4800,
+  "source_sha256": {
+    "experiments/threshold/benchmark_threshold.py": "c2698f74db05d523db0d2d2c07ab0cc8b449665635af2f0a36db4ac485c499ce",
+    "experiments/threshold/PROTOCOL_THRESHOLD.md": "ad3bb1d2a7e3b309c54088559d6e23981c2ba3988fa7b545faa087987cbe5dd5",
+    "artifact/engine_ablation.py": "bda192dc2bdc2acf0e838ba3099b975f710a1bc3ea0cf6a5d203ff3f7601f5b4",
+    "artifact/workloads.py": "ce15b84ef2e9a876ed6119496cf9e9b17ac042e2eccc8df91dc633b9481afd25",
+    "artifact/benchmark_ablation.py": "c62703e321ed30d780a1b3901fdc7e86f88e83764c87c7db53f29b1249ec33ed",
+    "artifact/data/yago_subclass_2400.json": "dacd6f3555683b688c111b91fe7d947cc7e579eba2dac393efd260b4eb3c612e",
+    "experiments/threshold/ablation_workload_manifest.json": "1e79fbdd9dce5637cc7268a7fa25944d9bfe8ac80610ef59586f2c7114a76b84",
+    "experiments/threshold/frozen_inputs/manifest.json": "60fe9094ed16491c08b5918db05b3b19683425533ec10f9f30c67f96799e16bb"
+  }
+}

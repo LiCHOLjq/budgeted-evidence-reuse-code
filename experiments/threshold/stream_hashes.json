@@ -1,0 +1,42 @@
+[
+  {
+    "seed": 11,
+    "workload_sha256": "f2b6ad5960fa3e6ba202b0c4492046fa3386b47ffc606d395e19df6f9afee52f"
+  },
+  {
+    "seed": 29,
+    "workload_sha256": "9d39ce78196883d28f823c08b10238fe977db2a9e37a5a775cd973390550915f"
+  },
+  {
+    "seed": 47,
+    "workload_sha256": "4c3996418ad87d50a51409bcb18e02da625ef2a8019758c9ba40728c6e926ba3"
+  },
+  {
+    "seed": 61,
+    "workload_sha256": "633c3b2e80a9cdbe9bad9314576ec6b70a67cc8bbb5675dc32c304f71b649ec4"
+  },
+  {
+    "seed": 73,
+    "workload_sha256": "7483625b8d75ca42c8cbda3846458fb51e09d410764a85eb94f310443b160657"
+  },
+  {
+    "seed": 89,
+    "workload_sha256": "242e5d1b9e351c67df643f640db5de4674dc4b93b00d7a484313765bed73b5ea"
+  },
+  {
+    "seed": 101,
+    "workload_sha256": "05d39e9be411b602eca2e2776cab327b1bc8894610a6084bc08a41d84b475a7c"
+  },
+  {
+    "seed": 127,
+    "workload_sha256": "ccbf06f94bf7b1a91e4c5b5fff75ff024fe43cf4900bfedb080c35ff54ede4e0"
+  },
+  {
+    "seed": 149,
+    "workload_sha256": "6888a739f1709620534a00a536c2f95fcbcaca6d4772a120c9733d587e69fca8"
+  },
+  {
+    "seed": 173,
+    "workload_sha256": "5116889e05e91f5d01a7f2225f1d42eaa2a89cf76bbbc1be2ecc1c653bd4278b"
+  }
+]

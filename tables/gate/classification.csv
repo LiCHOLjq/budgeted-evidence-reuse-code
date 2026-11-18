@@ -1,0 +1,5 @@
+target,classifier,n,TP,TN,FP,FN,accuracy,positive_prevalence,always_cache_accuracy,always_memo_accuracy,balanced_accuracy,dependence
+pilot_steady,sign_cache,240,101,85,10,44,0.775,0.6041666666666666,0.6041666666666666,0.3958333333333333,0.7956442831215971,"16 fixed cells; five reused seeds x three process repeats; paired forecasts, not independent trials"
+pilot_steady,selected_cache,240,78,88,7,67,0.6916666666666667,0.6041666666666666,0.6041666666666666,0.3958333333333333,0.7321234119782214,"16 fixed cells; five reused seeds x three process repeats; paired forecasts, not independent trials"
+next_nonprobe_block,sign_cache,480,178,165,22,115,0.7145833333333333,0.6104166666666667,0.6104166666666667,0.38958333333333334,0.7449307367998395,"16 fixed cells; five reused seeds x three process repeats; paired forecasts, not independent trials"
+next_nonprobe_block,selected_cache,480,153,176,11,140,0.6854166666666667,0.6104166666666667,0.6104166666666667,0.38958333333333334,0.7316803854647661,"16 fixed cells; five reused seeds x three process repeats; paired forecasts, not independent trials"
